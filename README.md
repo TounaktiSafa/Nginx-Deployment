@@ -15,18 +15,7 @@ A production-ready Nginx reverse proxy configuration for implementing blue-green
 - **Dockerized Environments** - Isolated deployment targets
 - **Admin Controls** - Manual override capabilities
 
-## Repository Structure
-Nginx-Deployment/
-├── docker-compose.yml # Container orchestration
-├── nginx.conf # Proxy configuration
-├── app/
-│ ├── Dockerfile # Application image
-│ 
-└── README.md # This document
-
-
 ## ⚡ Quick Deployment
-
 1. Clone the repository:
 ```bash
 git clone https://github.com/TounaktiSafa/Nginx-Deployment.git
